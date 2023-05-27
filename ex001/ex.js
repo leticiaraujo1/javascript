@@ -22,7 +22,3 @@ function contar() {
     r.innerHTML += '🏁'
 }
 }
-
-/*Tive muitas dificuldades nesse exercício mas acho que a principal foi não
-lembrar que tinha que colocar o place holder e o += dentro do inner.html.
-Também fico mto confusa as vezes com o local de botar algumas variáveis*/
